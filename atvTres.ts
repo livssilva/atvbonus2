@@ -38,7 +38,3 @@ if (n5 > maior) {
 
 console.log(`O maior número é: ${maior}`);
 console.log(`O menor número é: ${menor}`);
-
-
-
-
